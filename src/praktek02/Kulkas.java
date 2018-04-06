@@ -10,5 +10,17 @@ package praktek02;
  * @author Smekma
  */
 public class Kulkas {
+    String Warna;
+    String Merk;
+    String Kapasitas;
+    String Style;
+    String Ukuran;
     
+    void cetakInfo(){
+        System.out.println("Warna     :"+Warna);
+        System.out.println("Merk      :"+Merk);
+        System.out.println("Kapasitas :"+Kapasitas);
+        System.out.println("Style     :"+Style);
+        System.out.println("Ukuran    :"+Ukuran);
+    }
 }
