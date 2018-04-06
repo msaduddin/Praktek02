@@ -18,5 +18,7 @@ public class KulkasAksi2 {
         Arvin.Kapasitas="150";
         Arvin.Style="3 Pintu";
         Arvin.Ukuran="Extra Besar";
-    }
+        
+        Arvin.cetakInfo();
+        }
 }
