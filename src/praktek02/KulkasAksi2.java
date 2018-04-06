@@ -12,5 +12,11 @@ package praktek02;
 public class KulkasAksi2 {
     public static void main(String[] args) {
         Kulkas Arvin = new Kulkas ();
+        
+        Arvin.Warna="Pink";
+        Arvin.Merk="Sharp";
+        Arvin.Kapasitas="150";
+        Arvin.Style="3 Pintu";
+        Arvin.Ukuran="Extra Besar";
     }
 }
