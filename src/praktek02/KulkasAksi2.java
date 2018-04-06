@@ -11,6 +11,6 @@ package praktek02;
  */
 public class KulkasAksi2 {
     public static void main(String[] args) {
-        
+        Kulkas Arvin = new Kulkas ();
     }
 }
