@@ -18,5 +18,7 @@ public class KulkasAksi {
         Udin.Kapasitas="136";
         Udin.Style="2 Pintu";
         Udin.Ukuran="Besar";
+        
+        Udin.cetakInfo();
     }
 }
